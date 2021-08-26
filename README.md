@@ -7,4 +7,10 @@ Week 2 - Complete
 
 Week 3 - Complete
 
-Week 4+ - Doesn't open until Aug 18th
+Week 4 - Complete
+
+Week 5-6 - Yet to complete
+
+Week 7-9 - Doesn't open until 8th of September
+
+Week 10-12 - Doesn't open until 29th of September
