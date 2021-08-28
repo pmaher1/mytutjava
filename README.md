@@ -9,7 +9,9 @@ Week 3 - Complete
 
 Week 4 - Complete
 
-Week 5-6 - Yet to complete
+Week 5 - Some progress, much to do yet
+
+Week 6 - Yet to complete
 
 Week 7-9 - Doesn't open until 8th of September
 
