@@ -9,7 +9,7 @@ Week 3 - Complete
 
 Week 4 - Complete
 
-Week 5 - Complete (It is said that map_filtering isn't entirely correct, but the reason for this being incorrect is unclear)
+Week 5 - Complete
 
 Week 6 - Yet to complete
 
