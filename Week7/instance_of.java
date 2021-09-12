@@ -22,10 +22,8 @@ public class InstanceEvaluation {
         else if (object instanceof String){
             value = "String";
         }
-        else if (object instanceof null){
-            value =  "null";
-        }
-        else {
+        else if (object == null){
+            value = "null";
         }
         return value;
     }
